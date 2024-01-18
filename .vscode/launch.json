@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MyQueue",
+      "request": "launch",
+      "mainClass": "MyQueue",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
+      "name": "XOR",
+      "request": "launch",
+      "mainClass": "XOR",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
+      "name": "k",
+      "request": "launch",
+      "mainClass": "k",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSortVisualization",
+      "request": "launch",
+      "mainClass": "InsertionSortVisualization",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
+      "name": "ins",
+      "request": "launch",
+      "mainClass": "ins",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/banele/Documents/vscode",
+      "program": "/home/banele/Documents/vscode/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
