@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "mergeStrings",
+      "request": "launch",
+      "mainClass": "mergeStrings",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
+      "name": "listnode",
+      "request": "launch",
+      "mainClass": "listnode",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "vscode_5db9c7e0"
+    },
+    {
+      "type": "java",
       "name": "MyQueue",
       "request": "launch",
       "mainClass": "MyQueue",
