@@ -65,21 +65,4 @@ public void pop() {
             this.prev = prev;
         }
     }
-
-
-    public static void main(String[] args) {
-
-        int u = 100;
-        MyQueue<Integer> q = new MyQueue<>();
-
-        ArrayList
-
-        for (int i = 0; i < u; i++) q.push(i);
-        q.printQueue();
-
-            
-
-        
-
-    }
 }

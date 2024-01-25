@@ -17,7 +17,7 @@ Welcome to the DSA_practise repository! The primary goal of this project is to p
 
 The repository is organized into specific directories to categorize different types of problems or algorithms. The current structure is as follows:
 
-- **/arrays**: Solutions and implementations related to array problems.
+- **/Strings and arrays**: Solutions and implementations related to String and array problems.
 - **/linked-lists**: Linked list algorithms and problems.
 - **/trees**: Tree-based data structures and problems.
 - **/sorting**: Sorting algorithms and related problems.
